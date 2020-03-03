@@ -11,3 +11,5 @@ function solution(X, A) {
     
     return -1;
 }
+
+//https://app.codility.com/demo/results/trainingWZHNEJ-6F5/
