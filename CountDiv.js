@@ -6,3 +6,5 @@ function solution(A, B, K) {
     
     return (end/K) - (start/K) + 1;
 }
+
+//https://app.codility.com/demo/results/trainingB5CQFD-UK4/
